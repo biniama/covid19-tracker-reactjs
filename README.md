@@ -1,3 +1,28 @@
+# Biniam's notes
+### Followed Tutorial
+https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
+Setup  
+`npm rm -g create-react-app`  
+`npx create-react-app covid19-tracker`
+
+Install  
+`npm install --save axios chart.js react-chartjs-2 react-countup classnames @material-ui/core`  
+
+# About the project  
+# COVID-19 Tracker
+![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+
+### [Live Site](https://covid19-board.netlify.app/)
+
+## Introduction
+This is a full COVID-19 Tracker. We use ReactJS, Axios, Charts.JS and Material UI, React classes with life cycle method and also hooks.
+
+API used: https://covid19.mathdro.id/api
+
+Setup:
+run ```npm i && npm start```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
